@@ -10,6 +10,7 @@ This repository contains the source code for the new design of the **TaskMeister
 - **HTML:** Basic structure of the web pages.
 - **CSS:** Styles that define the visual appearance of the design.
 - **Images and SVGs:** Graphic resources used on the application's pages.
+- **Figma:** [Click Here](https://www.figma.com/design/CMncU8JMBeU4L9DnN25jey/Task-Maister-1-1?node-id=0-1&m=dev&t=mR34wkUGXy6gyGvT-1)
 
 # Viewing Links
 
